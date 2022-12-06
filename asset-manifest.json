@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TeamReporterApp/static/css/main.55c55900.css",
+    "main.js": "/TeamReporterApp/static/js/main.bc539717.js",
+    "index.html": "/TeamReporterApp/index.html",
+    "main.55c55900.css.map": "/TeamReporterApp/static/css/main.55c55900.css.map",
+    "main.bc539717.js.map": "/TeamReporterApp/static/js/main.bc539717.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55c55900.css",
+    "static/js/main.bc539717.js"
+  ]
+}
